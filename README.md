@@ -16,7 +16,7 @@ $ catkin build
 ```
 
 # Execute
-Run `ros_ovr_sdk`.
+Run `ros_ovr_sdk`.  
 **!!! Be careful for the initial potision of Oculus Rift !!!**
 ```bash
 $ rosrun ros_ovr_sdk ovrd
